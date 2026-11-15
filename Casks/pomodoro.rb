@@ -1,6 +1,6 @@
 cask "pomodoro" do
-  version "1.0.2"
-  sha256 "fb2d40bb712c187271bb0212a2a38afdf701f8e01cc36812443ba6dcde75f8f7"
+  version "1.1.0"
+  sha256 "7a8a54738b5ce2bd2071037d32079173a77e05c85c172d89c9c8c88724c931ad"
 
   url "https://github.com/ignaciobernardo/notch-pomodoro/releases/download/v#{version}/Pomodoro.zip"
   name "Pomodoro"
